@@ -6,7 +6,7 @@ interface IndexedChunk {
   tfidf: Record<string, number>;
 }
 
-const corpus = indexData as IndexedChunk[];
+const corpus = indexData as unknown as IndexedChunk[];
 
 const STOP_WORDS = new Set([
   'a','an','the','and','or','but','in','on','at','to','for','of','with',
