@@ -1,0 +1,95 @@
+# Leonardo da Vinci Masterclass Transcripts
+# Professor Martin Kemp, Emeritus Professor of the History of Art, Oxford University
+# Source: DVNC Masterclass Series
+
+=== LESSON 1: THE UNITY OF NATURE ===
+
+What lies at the core of Leonardo's vision — how he thinks, how he draws something, how he writes about something — is this freshness, this quality of one of the greatest visual geniuses who has ever lived.
+
+The manuscripts — these codices, these notebooks — vary enormously. Some of them have been completely rebound. They range from little pocketbooks he probably kept on his belt for taking notes, to big bound volumes. What we have is a collection of manuscripts of very different shapes and sizes.
+
+One of the characteristics of Leonardo is that if you go into any of these manuscripts, you find that nothing is ever on just one thing. There is the theme sheet — geometry, a man in profile, drapery, tree and plants, man and horseman, engineering, clouds, hair, water, storms, mountains, tower, a decorative motif, and a recipe for hair colouring. This is an extreme example, but it is rather typical. What happens with Leonardo is that things we see as separate — he didn't see these things as separate, they all flowed into each other.
+
+The tree merges — the branching of the tree merges with the man's drapery, which then is studied separately. And it senses some familiarity, some similarity between a bending of a branch and a bending of folding drapery. We wouldn't see that, but Leonardo does.
+
+Leonardo's map of all his varied interests shows: painting is essential for Leonardo — it's the great expression of his understanding of nature — but it's only a small proportion of what he actually did. He is always relating things we see as different. It's that essential unity of nature which gives his work its very remarkable and characteristic quality.
+
+The microcosm — the human body, the little world — is that in our bodies, with what were then the four elements: earth, air, fire, and water, and what is out there in nature: earth, air, fire, and water — we are a little world. Leonardo calls it a little world. If we understand nature, we understand human nature, and if we understand human nature, we understand nature.
+
+Leonardo placed the superficial vessels of the human arm beside a drawing of the Arno river near Florence. Rivers he called venae d'acqua — veins of water, or vessels of water. In this just straight comparison, you get a sense of the microcosm: the human body with its veins of blood, and the body of the earth.
+
+He used the term the body of the earth as a living thing. That provides the essential unity at the heart of it all.
+
+When he was thinking about branching systems in the human body — the blood vessels to the liver — he would be thinking about all other types of branching systems. He calls the vascular system the albolo delle vene — the tree of the vessels. So it is literally a tree.
+
+Leonardo studies the lungs with the bronchi. The tubes bifurcate — at each bifurcation, two secondary tubes have an equal cross-sectional area to the main tube, so that flow will not be turbulent. This is a law which was formulated in the 17th century. But Leonardo has done it visually. He formulates a law, which I paraphrase: at each point in the system, the cross-sectional area is constant. He's applying mathematical rules to an anatomical and organic problem — the first time anyone did this.
+
+Then he extends this to trees. If you section the trees at that point and added up their cross-sectional area, they should be equal to the main trunk. The rule that applies to the bronchi and the lungs is exactly the same as the rule that applies to trees. Why? Because both need to transmit fluids — the tree transmits sap, the lungs transmit air.
+
+Analogy for Leonardo is a way of arguing. For Leonardo, if you've got a tight analogy, it was proof. It was an absolute truth. He identifies a governing rule that manifests in multiple domains. He calls these not mere analogies but structural identities.
+
+The observation of the movement of water: Observe the motion of the surface of the water, which resembles the behaviour of hair, of which one depends on the weight of the strands, the other on the line of its revolving. Thus water makes revolving eddies, one part of which depends on the impetus of the principal current and the other on the incident and reflected motions. He's not just saying it looks like hair. He's saying they have the same rule. You've got the weight of the hair, the direction of the current, the tendency of water to revolve, the tendency of some hair to revolve — put them together and you get a helix.
+
+The glass model of the aortic valve: Leonardo says have it blown in glass — so he's trying to get the neck of the aorta done in glass to see how the currents work inside it. Morteza Gharib at Caltech built the model using modern imaging techniques and confirmed exactly what Leonardo had argued: the blood spiralled back, filling the valves. Leonardo's glass model experiment, conceived 500 years ago, was verified by modern engineering methods.
+
+The deluge drawings at Windsor: a set of late drawings. These are hydrodynamic demonstrations — he often talks about the physics of these storms in long written accounts which describe the physics as we were describing — but they have this extraordinary expressive dynamism. In the bottom left corner of one: human beings, soldiers on horses and trees, become puny in the face of this great blast of air. The battle tents — padiglioni — are being ripped out of their supports on the ground and spiral away in the air. So there is a sense of the human playing a malign force in society, but ultimately being overwhelmed. This is what I call nature's revenge: we take nature lightly at our peril.
+
+=== LESSON 2: WORKING WITH NATURE ===
+
+Leonardo was trained in the studio of Andrea Verrocchio, who is a sculptor, a painter, a jack-of-all-trades of immense quality. This brought Leonardo into contact with the great work of engineering, the Brunelleschi Dome — a dome built without centering. Leonardo made drawings from machines invented by Brunelleschi: a reversible hoist, a revolving crane. These were legendary machines.
+
+Working with nature — first of all, water. Water is immensely important for a whole series of reasons: for drinking, for power. The Archimedean screw: a spiral shaft which, when rotated in water, causes the water to go uphill. This gives a head of water. Water was very scarce — many people didn't have running water.
+
+Leonardo does an analysis to show that you cannot achieve perpetual motion. He writes very critically about those who pursue it. Thermodynamic limits are not negotiable.
+
+The Canal of San Cristoforo in Milan — a pound lock — the locks we are familiar with, where the lock gates come to a point with the current. Leonardo is thinking about the state of the art of canal engineering. Milan was full of very competent water engineers and military engineers. He's contributing to a common pool of knowledge.
+
+The Scala della Sforzesca di Vigevano: you have water high up at the top of a hill and you have to get it down non-turbulently to the bottom. If you simply let it cascade down, it causes much erosion and excavation of soil at the bottom. So the Scala steps the water down. Leonardo was much impressed by this. It is a model of working with natural force rather than fighting it.
+
+The Arno canal project: Leonardo thought seriously about how to make a canal connecting Florence to Pisa. His great arc goes up through Prato and Pistoia. You think, what is he doing here? This is enormously long-winded. But if you look at the present motorway — the Autostrada 11 — it follows exactly that route. Leonardo working with the landscape's natural logic rather than against it.
+
+The attempt to divert the Arno around Pisa was a fiasco. It didn't work. And one of the things that Leonardo learned from this, I think, is that water doesn't like being pushed around — that water has natural tendencies, and you're better working with water.
+
+In the Codex Leicester he describes working with nature: if you arrange weirs further upstream to direct the river in a different direction, the damage will be repaired because the river will deposit silt at the point where it was previously eroding. This is working with nature, understanding nature and persuading nature to collaborate with us in achieving our ends. The message is: collaborate with nature. Water is powerful. Work with it rather than try to push it around.
+
+Leonardo was much involved with military designs. He called war beastly madness, but he was fascinated by it — by the forces involved, by the chance to work on a huge scale with big forces. War, drawing war machines, becomes a form of experimentation.
+
+His ambiguity about military matters is profound. He sees these men as animalistic. He compares them to roaring lions and shrieking horses. Yet he was fascinated by the power of military inventions. There's a deep ambiguity throughout Leonardo's work: how you work with nature, how you respect it, but also a fascination — albeit a horrified fascination — with the arts of war.
+
+=== THE UNITY OF SEEING: ANATOMY AS COSMIC KNOWLEDGE ===
+
+Why does Leonardo, the painter, look at the inside of the human body? The answer is, for Leonardo, you have to understand everything. If you're going to understand how a figure works, then you need to know how its vascular system works, how its nervous system works. It's a totality of knowledge.
+
+Raphael would say: Why on earth do you need to do the nerves? What's this about? But Leonardo needs to understand everything. Whenever he looks at anything — like the brachial plexus, like a flower — he says, why does it look like that? How has that come about? What are the rules doing it? It's always why, why, why? Wonderfully penetrating, wonderfully exciting and terrifically frustrating because he doesn't, in a sense, settle upon one thing. He's always looking at things that lie beside it.
+
+The great lady — his drawing of the woman's body showing all the irrigation systems — the bronchial system, the vascular system, the urinary system, the genital system. This is the parallel for the body of the earth set in the body of the woman. It's the microcosm realised. Ultimately it collapses under the weight of its own graphic ambition — it becomes almost indecipherable as he wants to put so much into this single drawing. This is almost an emblematic drawing of Leonardo: he wants total understanding and wants to express it visually in a way which ultimately even he cannot do.
+
+He would have absolutely loved modern computer graphics and visualisation tools — he couldn't have envisaged them but would have loved them.
+
+=== ON THE COSMOS AND TIME ===
+
+Leonardo challenged the biblical view of geological time, recognising that fossils on mountains meant those areas were once underwater — evidence of massive, slow change. This was potentially heretical, because the Earth was meant to be God's creation: fixed, static, settled. Leonardo saw instead a dynamic system — the Earth as a living body with thresholds of tolerance, constantly adjusting, constantly in motion.
+
+The body of the Earth in the Codex Leicester: Leonardo thinks about the body of the Earth as an equilateral triangle and the sphere of water — to get a grip upon how this actually works as a physical system. He's the first person who does this diagrammatically, doing the geometry and the statics and the dynamics of the geological problem according to mathematics.
+
+What this means is that the relationship between earth and water is constantly changing, with some small changes and big cataclysms. This is a dynamic view of the Earth — an interacting dynamic unit — which would have been regarded as heretical if published at the time.
+
+Leonardo looks in detail at the body of the Earth and tries to understand how phenomena happen. Mountain springs: he says it's rather like cutting vessels in our temple — you would get blood spouting out. He thinks maybe it's like distillation — vapour condensing on colder stone at the top. He devises experiments to test this. He tests, revises, tests again. He doesn't always resolve everything. Some problems he devotes enormous time and thought to and can't solve, because he doesn't yet have the relevant dynamic laws which were to come along much later.
+
+=== ON EXPERIENCING NATURE ===
+
+Some of the most beautiful drawings Leonardo made are simultaneously works of art and works of science. For Leonardo, nature was beautiful in all its aspects, so a work of art is not essentially different from a work of science.
+
+These drawings of water — planks cutting into a stream, creating almost what he called horses' tails — he doesn't just say it looks like that. He says they have the same rule. He's coming up with an explanation for the analogy, or the analogy actually stimulates the explanation. That is probably the way round one should put it: the analogy is the engine of discovery, not merely its illustration.
+
+He called himself a disciple of experience. And this is called a sperientia — an experiment. Is it a real one or is it a thought experiment? I suspect he actually did in his laboratory or his workshop have a tank and actually did this. I don't think you can get results of that complexity just by thinking about it.
+
+He says use millet seed to see what's happening. He said coat the side of the tank with sand so you can see the pattern of the waves. He is building experimental apparatus. He is the disciple of experience.
+
+=== ON LEONARDO'S VOICE ===
+
+Leonardo was a very private person. He didn't write about his emotions. Very, very private. Michelangelo wrote passionately about everything, from the spiritual life of his soul to the nastiness of cheese in Rome. But Leonardo — we don't get any of that. So he pours his emotion into the work itself — into the black chalk drawings of the deluge, into the almost unbearable tenderness of certain anatomical studies, into the precision of his observations of water.
+
+He has got a sense of how visual demonstrations can produce what I call the AHA factor. You're thinking: how does this valve operate? How does it work? And then you go — AHA! I can see. And this is one of the more notable qualities of his work: the capacity to make the invisible visible, the complex simple, the abstract sensory.
+
+Nobody demonstrates anatomy like this. It is anatomy as God's engineering. He takes the valve out so it becomes an object in its own right, shows it from above and below, open and shut. Nobody had done this kind of systematic visual argument before.
